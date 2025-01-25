@@ -1,0 +1,25 @@
+
+
+Project Timeline
+
+Milestone 1 
+    - User Interface Setup --------> (COMPLETED)
+        * Design the basic UI layout of the app, including navigation between screens.
+        * Implementation Details:
+            - Create the opening screen, registration screen, login screen, and main menu.
+            - Ensure smooth navigation and a consistent design theme.
+
+    - User Registration and Login Functionality --------> (COMPLETED)
+        * Implement user account creation and authentication using local storage.
+        * Implementation Details:
+            - Validate user inputs during registration (e.g., password strength, unique username).
+            - Handle login errors and provide user feedback.
+
+    - Item Browsing Interface --------> (COMPLETED)
+        * Create an interface for users to browse items listed by others.
+        * Implementation Details:
+            - Display items in a grid or list format with images and brief descriptions.
+            - Implement pagination or infinite scroll for seamless browsing.
+
+Milestone Completion Criteria: --------> (COMPLETED)
+Users can create an account, log in, and access the main features of the app.
