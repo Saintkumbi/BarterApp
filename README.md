@@ -1,5 +1,4 @@
-# 🎨 Barter - Your Ultimate Trading Platform
-
+# 🎨 Barter Exchange
 <div align="center">
   <img src="demo-picture/demo-picture.png" alt="Barter App Demo" width="800" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
